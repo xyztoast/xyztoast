@@ -1,4 +1,6 @@
-# hey 👋 im toast
+# welcome to my profile
+
+my name is actualy **idktoast**, but that was taken. so i have xyztoast on github.
 
 i make **minecraft bedrock addons**, random web stuff, and custom clothing with **toast designs**.
 
