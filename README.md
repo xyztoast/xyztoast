@@ -1,16 +1,45 @@
-## Hi there 👋
+# hey 👋 im toast
 
-<!--
-**xyztoast/xyztoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i make **minecraft bedrock addons**, random web stuff, and custom clothing with **toast designs**.
 
-Here are some ideas to get you started:
+most of the stuff i make lives on my website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 website
+
+go here if you actually want to see my projects:
+
+https://xyztoast.github.io
+
+thats where the real stuff is.
+
+## 🧱 minecraft stuff
+
+i mostly make **mcbe addons / scripts / experiments**.
+sometimes useful, sometimes chaotic.
+
+## 💻 code
+
+if you see code in my repos or projects you can use it for your own stuff.
+
+just give **very obvious credit** somewhere like:
+
+```
+code by xyztoast
+github.com/xyztoast
+```
+
+im not gonna hunt people down over it, but like…
+**9000% credit appreciated** 🙏
+
+## 🧠 random fact
+
+half my projects start as
+"this would be funny if it worked"
+
+and then somehow they actually work.
+
+---
+
+site again bc people scroll fast:
+
+https://xyztoast.github.io
