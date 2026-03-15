@@ -6,7 +6,7 @@ most of the stuff i make lives on my website.
 
 ## 🌐 website
 
-go here if you actually want to see my projects:
+go here if you actually want to see some my projects:
 
 https://xyztoast.github.io
 
@@ -21,22 +21,15 @@ sometimes useful, sometimes chaotic.
 
 if you see code in my repos or projects you can use it for your own stuff.
 
-just give **very obvious credit** somewhere like:
+just give **very obvious credit** with official links somewhere like:
 
 ```
-code by xyztoast
+code by curseforge.com/members/idktoast/projects
 github.com/xyztoast
 ```
 
 im not gonna hunt people down over it, but like…
 **9000% credit appreciated** 🙏
-
-## 🧠 random fact
-
-half my projects start as
-"this would be funny if it worked"
-
-and then somehow they actually work.
 
 ---
 
