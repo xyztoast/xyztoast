@@ -2,9 +2,9 @@
 
 my name is actualy **idktoast**, but that was taken. so i have xyztoast on github.
 
-i make **minecraft bedrock addons**, random web stuff, and custom clothing with **toast designs**.
+i make **minecraft bedrock addons**, random web stuff.
 
-most of the stuff i make lives on my website.
+some of the stuff i make exclusively lives on my website.
 
 ## 🌐 website
 
