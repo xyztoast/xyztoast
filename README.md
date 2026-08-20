@@ -1,26 +1,20 @@
-# welcome to my profile
-my name is actualy **idktoast**, but that was taken. so i have xyztoast on github.
+my name is actualy **idktoast**, but that was taken.
 i make **minecraft bedrock addons** and random web stuff.
-some of the stuff i make exclusively lives on my website.
 
-### 🌐 website
+### website
 https://hello.mcbcode.com
-thats where the real stuff is.
+portfolio/idk
 
-### 🧱 minecraft stuff
-i mostly make **mcbe addons**.
-sometimes useful, sometimes chaotic.
+### minecraft stuff
+i make **mcbe addons**.
+sometimes useful, sometimes chaotic. check out my [infinite backrooms generator](https://www.curseforge.com/minecraft-bedrock/addons/infinite-backrooms-generator)
 
-### 💻 code
-if you see code in my repos or projects you can use it for your own stuff.
+### code
+if you see code in my repos or projects you like, can use it for your own stuff.
+<br>
 just give **very obvious credit** with official links somewhere like:
 
 ```
 code by curseforge.com/members/idktoast/projects
 github.com/xyztoast
 ```
-
-im not gonna hunt people down over it, but like…
-**100% credit appreciated** 🙏
-
----
